@@ -1,0 +1,12 @@
+service: strava-leaderboard-api
+# app and org for use with dashboard.serverless.com
+app: strava-leaderboard
+org: lukethetechsplorer
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+functions:
+  hello:
+    handler: handler.topTen
