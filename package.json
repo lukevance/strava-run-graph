@@ -4,7 +4,8 @@
   "description": "",
   "main": "handler.js",
   "dependencies": {
-    "geolib": "^3.2.1"
+    "geolib": "^3.2.1",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
