@@ -1,7 +1,7 @@
-const getCenterOfBounds = require('geolib').getCenterOfBounds;
+const getCenter = require('geolib').getCenter;
 
 module.exports = (southwest, northeast) => {
-    const boundaryCenter = getCenterOfBounds([southwest, northeast]);
+    const boundaryCenter = getCenter([southwest, northeast]);
 
     // return quadrants object
     return {
