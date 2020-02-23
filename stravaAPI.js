@@ -15,7 +15,6 @@ module.exports.topTenSegments = async (southwest, northeast) => {
             Authorization: `Bearer ${env.STRAVATOKEN}`
         }
     };
-    console.log(completeURL);
     const res = await fetch(completeURL, options);
     const json = await res.json();
     return json;

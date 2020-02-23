@@ -1,0 +1,782 @@
+[
+  {
+    "id": 8809682,
+    "resource_state": 2,
+    "name": "Rocky Mountain Lake Backside",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0.1,
+    "start_latlng": [
+      39.782497,
+      -105.027183
+    ],
+    "end_latlng": [
+      39.782849,
+      -105.034334
+    ],
+    "elev_difference": 2.5,
+    "distance": 713.6,
+    "points": "q_yqF|b``Sc@KSCI@]Li@h@y@dAWt@EVJxAAz@Fp@BdAXzADr@TnALdBJj@D`@Ah@B`@f@zANnAAXKx@GhADjBDr@",
+    "starred": false
+  },
+  {
+    "id": 8809679,
+    "resource_state": 2,
+    "name": "Berkeley Backside",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.1,
+    "start_latlng": [
+      39.783076,
+      -105.044915
+    ],
+    "end_latlng": [
+      39.782367,
+      -105.051969
+    ],
+    "elev_difference": 3.5,
+    "distance": 849.3,
+    "points": "ecyqFvqc`SWII?IDOTGv@Sh@m@nA]l@cAxBU|@c@nAYlAO`AEh@Ab@?^N`C?b@Hx@Br@FZPj@\\l@f@l@LTNZd@|ALR^LnAHh@@NBd@TTBJ@^K",
+    "starred": false
+  },
+  {
+    "id": 5415373,
+    "resource_state": 2,
+    "name": "Berkeley Lake ",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.782253,
+      -105.05189
+    ],
+    "end_latlng": [
+      39.782257,
+      -105.05185
+    ],
+    "elev_difference": 4.3,
+    "distance": 1553.6,
+    "points": "a~xqFh}d`Sw@RO?YGg@UgAAk@EUGSKSWGSMs@Sk@o@{@c@{@Qo@SsAUyD?g@DuAR}APw@\\eAZuAt@qAxA{CNe@Lu@HOHMJET?LDHF^p@Vx@PPXRTTZn@Rh@f@dC^lCTxBNvB^jCBv@Gx@@pACZQt@Wr@Ub@i@h@s@bA",
+    "starred": false
+  },
+  {
+    "id": 7131810,
+    "resource_state": 2,
+    "name": "Rocky Mountain Lake Lap",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.780607,
+      -105.031235
+    ],
+    "end_latlng": [
+      39.780645,
+      -105.031136
+    ],
+    "elev_difference": 3.1,
+    "distance": 1641.1,
+    "points": "wsxqFf|``SXkBAsACOIQCa@NgA?s@G]@y@G{@A}@Sm@MOSIMIYGs@Co@NWEWU?IIa@GSS[OOUKQ?K@EDKBo@GY?Q@QFOJc@^i@v@Ud@Id@@zBFhAD|AFh@J^J|@NdDVhB@\\Pt@d@dAHb@@f@UtCC|BDb@RPNDb@?n@ORUFMNmAPs@hAiDj@aAb@i@n@cAV]LKNSBKFu@",
+    "starred": false
+  },
+  {
+    "id": 10718333,
+    "resource_state": 2,
+    "name": "Tennyson--38th to 32nd",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 1.4,
+    "start_latlng": [
+      39.769018,
+      -105.044052
+    ],
+    "end_latlng": [
+      39.76236,
+      -105.044013
+    ],
+    "elev_difference": 10.3,
+    "distance": 757.7,
+    "points": "ikvqFjlc`Sd@Gl@Od@Bp@Jh@Ib@A`@INBZ^ZHRB|AYn@Hr@@~@Kj@Hl@Ab@GD@NHP@fAAf@I\\Dh@IRDX?HDJB\\@RE`AFdAKv@Bb@K",
+    "starred": false
+  },
+  {
+    "id": 3001647,
+    "resource_state": 2,
+    "name": "Grove climb",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 2,
+    "start_latlng": [
+      39.7721803,
+      -105.0276312
+    ],
+    "end_latlng": [
+      39.7763456,
+      -105.0276254
+    ],
+    "elev_difference": 9.3,
+    "distance": 462.5,
+    "points": "c_wqFve``SyBC{AH{@CYB_DEuDBy@E_AAWDk@C",
+    "starred": false
+  },
+  {
+    "id": 8416765,
+    "resource_state": 2,
+    "name": "41st - Lowell to Perry",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -1.1,
+    "start_latlng": [
+      39.773117,
+      -105.034927
+    ],
+    "end_latlng": [
+      39.773034,
+      -105.039156
+    ],
+    "elev_difference": 4.1,
+    "distance": 363.7,
+    "points": "}dwqFhsa`S?jCB~CA~@Dn@@jB?jFDxA",
+    "starred": false
+  },
+  {
+    "id": 10718325,
+    "resource_state": 2,
+    "name": "Tennyson--44th to 38th",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 1.3,
+    "start_latlng": [
+      39.776293,
+      -105.043851
+    ],
+    "end_latlng": [
+      39.769611,
+      -105.044083
+    ],
+    "elev_difference": 10.2,
+    "distance": 758.2,
+    "points": "yxwqFbkc`Sp@An@BbAGvAd@`@@TBZCd@SXAPJNDtANX?VEX?j@KVHd@Ah@DhAQv@CFA~ARh@RP@Z?p@Qt@HP?RETIlABXD",
+    "starred": false
+  },
+  {
+    "id": 10263535,
+    "resource_state": 2,
+    "name": "Highland Park CCW",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.76323,
+      -105.027029
+    ],
+    "end_latlng": [
+      39.763261,
+      -105.026962
+    ],
+    "elev_difference": 4.3,
+    "distance": 337.6,
+    "points": "eguqF|a``SHHJFLBL?VGVONOLQ`@u@FUHg@@MCWGYMSYKg@He@\\Y`@QZKj@Ev@B`@",
+    "starred": false
+  },
+  {
+    "id": 7256519,
+    "resource_state": 2,
+    "name": "little climb on yates",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 2.7,
+    "start_latlng": [
+      39.763924,
+      -105.052534
+    ],
+    "end_latlng": [
+      39.763932,
+      -105.050469
+    ],
+    "elev_difference": 4.8,
+    "distance": 177.1,
+    "points": "okuqFjae`SCcG@yC",
+    "starred": false
+  },
+  {
+    "id": 10265480,
+    "resource_state": 2,
+    "name": "Watch out for Trolls!",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.4,
+    "start_latlng": [
+      39.767408,
+      -104.998188
+    ],
+    "end_latlng": [
+      39.763158,
+      -105.001536
+    ],
+    "elev_difference": 7.5,
+    "distance": 631.3,
+    "points": "gavqFtmz_SA_@DKHILEF?LB@DEDDBp@[F?h@FVH\\^Vb@nArDLTX\\lB`BVXn@z@t@jAzAtAfAr@r@XZ@RE",
+    "starred": false
+  },
+  {
+    "id": 20231623,
+    "resource_state": 2,
+    "name": "36th Ave Climb",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 2.8,
+    "start_latlng": [
+      39.766786,
+      -105.000714
+    ],
+    "end_latlng": [
+      39.766699,
+      -105.014242
+    ],
+    "elev_difference": 32.8,
+    "distance": 1165.1,
+    "points": "k}uqFn}z_SDfB?bBBpCEbB?|BDj@CbA@tCEfAHnDA`BAp@JfCC\\AlBEt@@t@Ch@EnHF|AE^?fCDl@@xCCjAFxCC^FP",
+    "starred": false
+  },
+  {
+    "id": 1549856,
+    "resource_state": 2,
+    "name": "Ian's Block",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0.6,
+    "start_latlng": [
+      39.76329350847729,
+      -105.01899031932001
+    ],
+    "end_latlng": [
+      39.76445050448157,
+      -105.01891789967661
+    ],
+    "elev_difference": 1,
+    "distance": 130.2,
+    "points": "qguqFto~_SGFw@AiAKgACUC",
+    "starred": false
+  },
+  {
+    "id": 12800457,
+    "resource_state": 2,
+    "name": "Inca Sidewalk 45th to 38th",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -1.1,
+    "start_latlng": [
+      39.7782,
+      -104.998164
+    ],
+    "end_latlng": [
+      39.769325,
+      -104.99825
+    ],
+    "elev_difference": 11.9,
+    "distance": 984.1,
+    "points": "wdxqFpmz_S|JCdAEdDDbBE`GBpADx@GhGFtCE~CD`@DRH\\?",
+    "starred": false
+  },
+  {
+    "id": 1739677,
+    "resource_state": 2,
+    "name": "Clay Street Corridor",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.2,
+    "start_latlng": [
+      39.78013869855634,
+      -105.02059245736113
+    ],
+    "end_latlng": [
+      39.76933246478258,
+      -105.02056335898635
+    ],
+    "elev_difference": 4.8,
+    "distance": 1209.1,
+    "points": "ypxqFvy~_SlAEf@BVFdBMjAB|@CjAF\\Cz@@~@F^?j@Cl@@pCOL@PA^@t@Cv@BdBEb@@ZFnBDv@?\\CJE^Aj@Dn@?j@BVAr@B`AA\\B^Ch@?HBX?lAElCHl@CBEHA",
+    "starred": false
+  },
+  {
+    "id": 3154057,
+    "resource_state": 2,
+    "name": "34th Ave climb",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 2.8,
+    "start_latlng": [
+      39.7642576,
+      -105.005358
+    ],
+    "end_latlng": [
+      39.764397,
+      -105.0201143
+    ],
+    "elev_difference": 35.2,
+    "distance": 1271.5,
+    "points": "qmuqFnz{_SIBIXC`@MbLBn@CnD@vKB^ArB@`BCxAHnJCz@FtEGpABtBC~@DbCGxB@vBAZB~D",
+    "starred": false
+  },
+  {
+    "id": 21357978,
+    "resource_state": 2,
+    "name": "Alcott Mile",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.5,
+    "start_latlng": [
+      39.77999,
+      -105.018169
+    ],
+    "end_latlng": [
+      39.773353,
+      -105.017414
+    ],
+    "elev_difference": 4.6,
+    "distance": 795.8,
+    "points": "}oxqFpj~_SJEVFz@Cx@DtBIj@Df@An@@l@ExALjAAX@L?HELe@DoADSHMLEtADZFn@Av@DLCFDjCSf@?TDNCDDFBb@GT?b@Bl@A",
+    "starred": false
+  },
+  {
+    "id": 22863298,
+    "resource_state": 2,
+    "name": "Inca to Osage incline",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 2.9,
+    "start_latlng": [
+      39.77418,
+      -104.998262
+    ],
+    "end_latlng": [
+      39.774212,
+      -105.005312
+    ],
+    "elev_difference": 18.2,
+    "distance": 614.2,
+    "points": "skwqFdnz_SEz@HxCAf@BjBDD?NAd@?j@GhA@`CCf@ERAzBBhAAtAFb@CVBdACz@CX?hACj@@x@@B",
+    "starred": false
+  },
+  {
+    "id": 1739676,
+    "resource_state": 2,
+    "name": "Clay Street Corridor",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.2,
+    "start_latlng": [
+      39.78013869855634,
+      -105.02059245736113
+    ],
+    "end_latlng": [
+      39.76933246478258,
+      -105.02056335898635
+    ],
+    "elev_difference": 4.8,
+    "distance": 1209.1,
+    "points": "ypxqFvy~_SlAEf@BVFdBMjAB|@CjAF\\Cz@@~@F^?j@Cl@@pCOL@PA^@t@Cv@BdBEb@@ZFnBDv@?\\CJE^Aj@Dn@?j@BVAr@B`AA\\B^Ch@?HBX?lAElCHl@CBEHA",
+    "starred": false
+  },
+  {
+    "id": 2451250,
+    "resource_state": 2,
+    "name": "Cherry Creek Dash",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -1.1,
+    "start_latlng": [
+      39.74600046873093,
+      -105.00026338733733
+    ],
+    "end_latlng": [
+      39.742707470431924,
+      -104.99987488612533
+    ],
+    "elev_difference": 5,
+    "distance": 381.5,
+    "points": "o{qqFtzz_S\\^dAG`@MbA@vAGl@?ZG\\Al@?r@KpBw@l@OFJ",
+    "starred": false
+  },
+  {
+    "id": 5651126,
+    "resource_state": 2,
+    "name": "Confluence getaway",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0.9,
+    "start_latlng": [
+      39.753367,
+      -105.007635
+    ],
+    "end_latlng": [
+      39.746089,
+      -104.999831
+    ],
+    "elev_difference": 11,
+    "distance": 1099.4,
+    "points": "oisqFvh|_SNENOn@iAPSP_@Pg@JOVURa@j@s@XUBMPQ\\s@HMZOROHYRWJYB]HOXYHEZEJILUH]`@Ub@y@PM`@i@Zo@Zc@NMDIDYZu@PSVMDEVe@`@cAPUVUJORQXMRO\\ODCTE\\Qp@i@l@Ud@EVGTCPITYNKv@MZONS?IHYDCH?LKBG@K",
+    "starred": false
+  },
+  {
+    "id": 6858611,
+    "resource_state": 2,
+    "name": "Cherry Creek | w Colfax to Wewatta",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.2,
+    "start_latlng": [
+      39.740209,
+      -104.998629
+    ],
+    "end_latlng": [
+      39.750772,
+      -105.003963
+    ],
+    "elev_difference": 9.3,
+    "distance": 1427.3,
+    "points": "gwpqFlpz_STHk@e@YNy@Na@Ta@@c@NI?_Al@MNi@Te@Z_@Da@NQPg@Be@Re@Fo@Rq@^MF]Da@?a@Hy@MNpA?GMEs@?GEK?w@FgAIWGo@IgAPOKQe@IIEAYFi@Ti@NSLQXQRQLQF]F]@WFSHUP[LIBM?QDYTw@d@k@v@Sj@e@r@YZoAjB}@|@]`AIPWZo@^MZ",
+    "starred": false
+  },
+  {
+    "id": 1549720,
+    "resource_state": 2,
+    "name": "Little Man Climb",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 6.4,
+    "start_latlng": [
+      39.75815326444782,
+      -105.00913848178928
+    ],
+    "end_latlng": [
+      39.7597101191429,
+      -105.01107738363092
+    ],
+    "elev_difference": 15.6,
+    "distance": 243.1,
+    "points": "mgtqFbr|_SYTMDQROX{@rBu@r@{BpC",
+    "starred": false
+  },
+  {
+    "id": 5617729,
+    "resource_state": 2,
+    "name": "Child's Play",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.753798,
+      -105.010082
+    ],
+    "end_latlng": [
+      39.743601,
+      -105.01641
+    ],
+    "elev_difference": 2.8,
+    "distance": 1344,
+    "points": "elsqF`x|_S`CbEx@jAX\\Vh@|@tA^h@b@ZVZ`CzDvAjCjBvC`@b@p@l@r@d@jARjBNZE`AArFV^?pAJdBFlB@`BHzBVh@BfAV",
+    "starred": false
+  },
+  {
+    "id": 6065189,
+    "resource_state": 2,
+    "name": "Arapahoe to Wynkoop",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.5,
+    "start_latlng": [
+      39.744355,
+      -104.999949
+    ],
+    "end_latlng": [
+      39.750118,
+      -105.002966
+    ],
+    "elev_difference": 6.6,
+    "distance": 768.4,
+    "points": "eqqqFtxz_Si@JgC?c@D]Rs@Iq@QSD@LXd@KHi@Cc@LmAJ_AXc@HiAZWDWJ_@FUJg@T]Pm@h@eAtA[\\_@h@Q^Wb@m@f@g@j@@P@G",
+    "starred": false
+  },
+  {
+    "id": 3201081,
+    "resource_state": 2,
+    "name": "Cuernavaca Half Mile",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.760333,
+      -105.0013489
+    ],
+    "end_latlng": [
+      39.7603519,
+      -105.0013759
+    ],
+    "elev_difference": 9.3,
+    "distance": 759.7,
+    "points": "autqFla{_SAuAEe@e@{AQ]]e@_@W_@Mq@Gc@@c@F_@Jg@Ra@X]^Y`@M`@Mh@Ej@@v@Lr@Rf@X`@\\ZXPj@R^Fh@Dl@Cb@K`@Ob@Yb@a@^k@Nk@",
+    "starred": false
+  },
+  {
+    "id": 1697848,
+    "resource_state": 2,
+    "name": "Mile High Clockwise",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.7431501,
+      -105.0184391
+    ],
+    "end_latlng": [
+      39.7431736,
+      -105.0183799
+    ],
+    "elev_difference": 11.5,
+    "distance": 1020.5,
+    "points": "uiqqFfl~_Sp@h@l@dALZb@lBBNApAOlBSr@_@x@e@n@i@\\w@^SFk@Hm@@}@KYIm@_@}@s@m@aAM]K_@MeAEeADcATqAf@mAZ_@r@o@dAi@p@KbAA~@Lp@L",
+    "starred": false
+  },
+  {
+    "id": 1406376,
+    "resource_state": 2,
+    "name": "16th Street Mall",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0.8,
+    "start_latlng": [
+      39.7539722,
+      -105.0032065
+    ],
+    "end_latlng": [
+      39.7435464,
+      -104.9913287
+    ],
+    "elev_difference": 13.4,
+    "distance": 1609.3,
+    "points": "imsqF`m{_SHALMt@_AL[HGFBZ^PJTg@~AgC\\w@LQZY\\s@JGNc@AQIIBGb@]PSTORENWFCPUPWFEFSb@g@HEVCNIPc@FI?In@gAd@e@PGNOn@iAf@kAT]HERYBSDKEMjAu@FIHUHKJe@BWXo@BS^]HSl@WPQBKPEj@i@T]d@k@l@iAXa@NCDGTGVWBIRURSVOFGZ_ANWRSBGT@PGDMBCHYNEBKNMHAHGPCFGJELq@NQh@iAb@o@HWTUPq@XMh@DLABCZ@BM^FJA@E",
+    "starred": false
+  },
+  {
+    "id": 5617703,
+    "resource_state": 2,
+    "name": "Run Up To Speer",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0.3,
+    "start_latlng": [
+      39.743154,
+      -105.01606
+    ],
+    "end_latlng": [
+      39.753316,
+      -105.009432
+    ],
+    "elev_difference": 6.5,
+    "distance": 1343.7,
+    "points": "uiqqFj}}_SeAUc@U[Yc@Wo@QoAg@a@G}@C{A?g@CcAMc@Ms@@g@Dm@?a@CiB[mAKWA{B?m@G[Wc@Uk@Wa@YWYi@eBsAgByByDu@oAcAgA{@oA[g@o@sA_@o@sBiC_@Y",
+    "starred": false
+  },
+  {
+    "id": 1389672,
+    "resource_state": 2,
+    "name": "Sloan's Lake - Inner Loop",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.744223144646774,
+      -105.03699589499323
+    ],
+    "end_latlng": [
+      39.744232062312285,
+      -105.03698029036093
+    ],
+    "elev_difference": 2.1,
+    "distance": 4162.5,
+    "points": "kpqqFf`b`S_@k@MIs@O_@FeBf@i@Xe@^k@z@o@jAa@p@cBjDGRKz@]bAOl@KnAw@tBGf@Ed@SfACnACPSp@Ib@EpAIXIJKHMB_@?i@a@w@Ok@Am@NaAh@g@RMJkBbAqA|@{BdAi@Ps@d@u@\\YRWX]f@O^St@KpAAlA@z@Dd@VhAT^d@d@FLBPE|@@PDTv@~@P`@Hj@Bz@ClAKpAS|AYp@Kf@Cf@Bx@L|@Xr@h@~@VTNF~@LpAI~@ALBZL|@VDAbABnAJ`BM\\?dBQN?\\Jp@?pAWRGn@[\\KbA@LCh@k@t@qAT]j@c@V]vAyAT]p@qAXoABi@KoAO{@QkA?{@EWGSS_@c@cAUkASq@i@}@g@mAKg@Ee@?SL_AdAqBl@}@P_@Lg@Hg@VqEP}@\\eABg@Cc@?k@BoCDcBPgBVkBHkBJe@HQJMFU@W@m@CsASiBQm@",
+    "starred": false
+  },
+  {
+    "id": 7211900,
+    "resource_state": 2,
+    "name": "West Sloan Lake Dirt",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -0.1,
+    "start_latlng": [
+      39.752194,
+      -105.051497
+    ],
+    "end_latlng": [
+      39.746547,
+      -105.052286
+    ],
+    "elev_difference": 1.6,
+    "distance": 688.4,
+    "points": "ebsqFzzd`Sj@jBb@~@l@j@XHZBR?`BKX?\\DbAXz@BlANXBt@IdACjBUrAJXAVGx@e@d@SVIx@M",
+    "starred": false
+  },
+  {
+    "id": 7211890,
+    "resource_state": 2,
+    "name": "South Sloan Lake",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.746036,
+      -105.052059
+    ],
+    "end_latlng": [
+      39.744047,
+      -105.038236
+    ],
+    "elev_difference": 1.6,
+    "distance": 1349.5,
+    "points": "u{qqFj~d`Sp@gAz@u@pB}BT_@`@eANa@Jk@Bi@GeAg@eCEgAEa@c@o@Qc@Og@QgAK]}@}AOa@Og@Ki@C_@Bg@Fe@xBoD^mANoAHgBPgBd@gBA}CBeATyDX{BHgBD_@J]NWFWDc@",
+    "starred": false
+  },
+  {
+    "id": 9209139,
+    "resource_state": 2,
+    "name": "Sloans SE CW",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.747125,
+      -105.039151
+    ],
+    "end_latlng": [
+      39.745819,
+      -105.045774
+    ],
+    "elev_difference": 2,
+    "distance": 1242.1,
+    "points": "obrqFvmb`SHe@L_@lAsBzA_DjByB^Qn@Qh@Ir@GJDLNXTd@b@R^H\\Bb@P|@Bv@C\\Ad@GTOf@S^On@?b@IlAUrAQn@Ml@IxCFnAAj@Fn@A`@Op@UvAKrB?b@M|@Wv@c@~@e@nAy@vAKn@",
+    "starred": false
+  },
+  {
+    "id": 11351252,
+    "resource_state": 2,
+    "name": "Sloans Lake ENE segment",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0.2,
+    "start_latlng": [
+      39.747441,
+      -105.040649
+    ],
+    "end_latlng": [
+      39.752217,
+      -105.044875
+    ],
+    "elev_difference": 1.8,
+    "distance": 734.1,
+    "points": "odrqF`wb`SWr@GVc@~CGx@]rAC`@@j@CVGNQTQHYBSGc@[_@Kw@C_@FaA`@eAl@g@RwChBkAh@QJgAb@cAl@a@N",
+    "starred": false
+  },
+  {
+    "id": 11351257,
+    "resource_state": 2,
+    "name": "Sloans South CCW",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.744599,
+      -105.04943
+    ],
+    "end_latlng": [
+      39.744581,
+      -105.042302
+    ],
+    "elev_difference": 1.7,
+    "distance": 690.1,
+    "points": "urqqF|md`SKSMmAGs@?eAAQM[[e@Qc@c@sBGSaA_BOc@Mc@I}@Du@Nm@NYTU\\o@d@q@Zq@Hk@JaAN}CPeAb@sA",
+    "starred": false
+  },
+  {
+    "id": 11249314,
+    "resource_state": 2,
+    "name": "Sloans SE CCW",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.745808,
+      -105.045872
+    ],
+    "end_latlng": [
+      39.747069,
+      -105.039401
+    ],
+    "elev_difference": 1.8,
+    "distance": 1242.3,
+    "points": "gzqqFvwc`SAa@FYl@w@~@}AZw@Le@LaAP}EDUd@cAFa@?a@Gi@Ca@@g@JoAFgCj@iFD_A^uANsAGyASgBGU[g@SO]QOES@_@F}@Xi@Z_@Z]\\u@bAu@hAw@xAi@nAo@tB",
+    "starred": false
+  },
+  {
+    "id": 6499217,
+    "resource_state": 2,
+    "name": "Yates Climb",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 4.5,
+    "start_latlng": [
+      39.754841,
+      -105.050851
+    ],
+    "end_latlng": [
+      39.762055,
+      -105.050837
+    ],
+    "elev_difference": 36.6,
+    "distance": 802.7,
+    "points": "wrsqFzvd`SkIP_DA{@EyBBk@IuC@gBE{EBiBCcC?KC",
+    "starred": false
+  },
+  {
+    "id": 20666966,
+    "resource_state": 2,
+    "name": "Zenobia downhill - 32nd to Byron",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": -4.5,
+    "start_latlng": [
+      39.761964,
+      -105.052165
+    ],
+    "end_latlng": [
+      39.7531,
+      -105.052133
+    ],
+    "elev_difference": 45,
+    "distance": 990.5,
+    "points": "g_uqF`_e`S~AH`ABnCAjAGbAIxBCrBGt@Ft@Ad@GrD@lBDtBI~@@jBED?ZPZBlB?v@Av@BhAC",
+    "starred": false
+  },
+  {
+    "id": 3467318,
+    "resource_state": 2,
+    "name": "North HS Track",
+    "climb_category": 0,
+    "climb_category_desc": "NC",
+    "avg_grade": 0,
+    "start_latlng": [
+      39.7611615,
+      -105.0215745
+    ],
+    "end_latlng": [
+      39.7612328,
+      -105.0215979
+    ],
+    "elev_difference": 0.9,
+    "distance": 418.5,
+    "points": "gztqFz__`SlD?f@EZYJi@Ck@W_@_@IoDDg@H]`@Gj@Pn@ZT",
+    "starred": false
+  }
+]
